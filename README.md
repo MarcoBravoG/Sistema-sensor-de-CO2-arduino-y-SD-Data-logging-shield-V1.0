@@ -5,3 +5,8 @@ Liberia Sensor de CO2
 Libreria del adaptador de micro sd Data Logging Shield v1.0
 seguidamente se puede observar el codigo desarrollado
 y finalmente el circuito del proyecto
+
+
+Lectura de txt a .csv en excel
+https://www.youtube.com/watch?v=meF1XotsY9o&t=48s&ab_channel=J%26CWorldTricks
+
